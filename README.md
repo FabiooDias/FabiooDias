@@ -14,8 +14,14 @@ Experiências em Base de Dados dentre elas criação de consultas que correlacio
 Também tendo contato com versionamento de aplicação utilizando GIT, AZURE.
 
 #### Habilidades adquiridas:
-- Python
+- Python (Basico)
 - SQL - "FDW"
+- Postgres
+- MongoDB
 - GIT
 - PHP
-- Nodejs Basico
+- Nodejs
+- JavaScript
+- TypeScript
+- NestJs
+  
